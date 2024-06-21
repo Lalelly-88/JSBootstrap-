@@ -1,0 +1,22 @@
+#consulta-form .form-control {
+    border: 2px solid #007bff;
+    border-radius: 5px;
+}
+
+#consulta-form .form-control:focus {
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    border-color: #0056b3;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer {
+    margin-top: auto;
+}
